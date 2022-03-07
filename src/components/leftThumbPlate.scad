@@ -10,7 +10,6 @@ linear_extrude(PLATE_THICKNESS)
         boltPositions = THUMB_BOLT_HOLES,
         cutHoles = true,
         $fn = 100);
-}
 
 linear_extrude(PLATE_THICKNESS)
     plate(
@@ -19,8 +18,8 @@ linear_extrude(PLATE_THICKNESS)
         boltPositions = THUMB_BOLT_HOLES,
         cutHoles = true,
         $fn = 100);
-
-//mirror([1,0,0])
+}
+mirror([1,0,0])
 leftThumbPlate();
     
 if(DRAW_DEBUG)

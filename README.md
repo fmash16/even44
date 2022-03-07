@@ -1,5 +1,4 @@
-# MESH42
---------------------------------------------------------------------------------------------------
+# EVEN44 
 
 A 40% split keyboard made through modifications of the [oddball](https://atulloh.github.io/oddball/) by [atulloh](https://atulloh.github.io/oddball/) taking inspirations from [kyria](https://github.com/splitkb/kyria) and [lily58 pro](https://github.com/kata0510/Lily58) which I personally liked a lot. So taking the base design of the oddball, I made the following major edits:
 
@@ -10,7 +9,6 @@ A 40% split keyboard made through modifications of the [oddball](https://atulloh
 For now, the keyboard is in design phase and will be handwired.
 
 ## TODO
---------------------------------------------------------------------------------------------------
 
 * Design a pcb  
 * RGB support(?)

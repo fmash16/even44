@@ -8,6 +8,23 @@ A 40% split keyboard made through modifications of the [oddball](https://atulloh
 
 For now, the keyboard is in design phase and will be handwired.
 
+## QMK Firmware
+
+The firmware is still in testing stage. To compile and flash the firmware,
+first you need to clone the qmk-firmware repository. Then copy the foler
+```even44``` over to the keyboards directory of the qmk-firmware repository.
+
+```sh
+git clone https://github.com/qmk/qmk_firmware
+cp -rv even44/qmk_firmware/even44 qmk_firmware/keyboards/even44
+```
+
+Then the firmware can be compiled and flashed using
+
+```sh
+make even44:default:avrdude
+```
+
 ## TODO
 
 * Design a pcb  

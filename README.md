@@ -8,6 +8,10 @@ A 40% split keyboard made through modifications of the [oddball](https://atulloh
 
 For now, the keyboard is in design phase and will be handwired.
 
+### Hotswap sockets for handwiring
+
+Design taken from [stingray127/handwirehotswap](https://github.com/stingray127/handwirehotswap).
+
 ## QMK Firmware
 
 The firmware is still in testing stage. To compile and flash the firmware,

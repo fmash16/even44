@@ -3,7 +3,7 @@ use <../modules/pcb.scad>;
 use <../modules/plate.scad>;
 use <../modules/keys.scad>;
 
-//linear_extrude(PLATE_THICKNESS)
+linear_extrude(PLATE_THICKNESS)
     plate(
         keyPositions = FINGER_GRID,
         keyHeight = 1.0,

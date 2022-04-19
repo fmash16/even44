@@ -5,7 +5,7 @@ DRAW_DEBUG = true;
 // MX constants
 
 1U = 19.05;
-SWITCH_WIDTH = 14;
+SWITCH_WIDTH = 14.1;
 
 // hardware
 
@@ -25,7 +25,7 @@ BEARING_TOLERENCE = 0.05;
 // plate
 
 PLATE_THICKNESS = 1.5;
-PLATE_BEZEL = 1;
+PLATE_BEZEL = 0.7;
 PLATE_CURVE_RADIUS = 1;
 
 // trackball

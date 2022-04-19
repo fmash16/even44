@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "action.h"
 #include "even44.h"
 
 char keylog_str[24] = {};

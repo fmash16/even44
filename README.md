@@ -1,5 +1,7 @@
 # EVEN44 
 
+![](gallery/IMG_20220416_054009~3.jpg)
+
 A 40% split keyboard made through modifications of the [oddball](https://atulloh.github.io/oddball/) by [atulloh](https://atulloh.github.io/oddball/) taking inspirations from [kyria](https://github.com/splitkb/kyria) and [lily58 pro](https://github.com/kata0510/Lily58) which I personally liked a lot. So taking the base design of the oddball, I made the following major edits:
 
 * Make the column stagger more aggressive like the kyria.  
